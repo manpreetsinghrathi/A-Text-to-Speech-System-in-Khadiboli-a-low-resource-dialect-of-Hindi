@@ -1,0 +1,3 @@
+gTTS
+edge-tts
+pyttsx3

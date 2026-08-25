@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<speak version="1.1" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="hi-IN">
+    <p>
+        <s>
+            <audio src="sentence_01.mp3" soundLevel="-6dB" speed="50%">
+                <prosody volume="+6dB">
+                    <emphasis level="strong"><phoneme alphabet="ipa" ph="joː">यो</phoneme></emphasis> <break time="100ms"/> <phoneme alphabet="ipa" ph="kɔːɳ">कौण</phoneme> <phoneme alphabet="ipa" ph="ɦɛː">है</phoneme>?
+                </prosody>
+            </audio>
+        </s>
+    </p>
+</speak>
+
+
